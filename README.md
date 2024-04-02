@@ -1,6 +1,3 @@
-Bien sûr, voici un exemple de README pour votre application Discord + Chat GPT :
-
----
 
 # Discord + Chat GPT
 
